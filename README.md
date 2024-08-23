@@ -1,7 +1,7 @@
 # Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning
 <div align="center">
 
-[[Website]](https://Video2Reward.github.io/) | [[PDF]](https://Video2Reward.github.io/pdf)
+[[Website]](https://djjiery.github.io/Video2Reward.github.io/) | [[PDF]](https://Video2Reward.github.io/pdf)
 
 ![Python Version](https://img.shields.io/badge/python-3.8-blue)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-red)
